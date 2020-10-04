@@ -1,0 +1,12 @@
+[	
+	{
+		"id" : 1,
+		"nama" : "Peter",
+		"tanggal_lahir" : "1990-01-15"
+	},
+	{
+		"id" : 2,
+		"nama" : "Jenny",
+		"tanggal_lahir" : "1990-02-14"
+	}
+]
